@@ -1,0 +1,15 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    position: relative;
+
+    color: #FFF;
+    background: #000;
+}
+
+[class*="__container"] {
+    max-width: 1125px;
+    margin: 0 auto;
+}
